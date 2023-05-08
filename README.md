@@ -1,5 +1,5 @@
 # Script de criação de Servidor WEB via Apache
-Este script foi desenvolvido como parte do conteúdo do bootcamp ''Cloud AWS'', mais especificamente na matéria de Linux, com o objetivo de automatizar a criação de um servidor WEB utilizando a ferramente Apache, para sistema Linux.
+Este script foi desenvolvido como parte do conteúdo do bootcamp ''Cloud AWS'', mais especificamente na matéria de Linux, com o objetivo de automatizar a criação de um servidor WEB utilizando a ferramente Apache
 
 ## 📚 Funcionalidades
 O script realiza as seguintes operações:
